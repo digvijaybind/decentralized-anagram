@@ -55,10 +55,7 @@
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/suhailkakar/decentralized-instagram
-   ```
+
 2. Install NPM packages
    ```sh
    npm install
@@ -75,14 +72,7 @@
  
  > Be sure to have Ganache installed and added to your metamask wallet
 
-### Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-3. Commit your Changes (`git commit -m 'Some Good Features'`)
-4. Push to the Code (`git push -u origin master `)
-5. Open a Pull Request
 
 
 ### License
@@ -91,5 +81,5 @@ This project is an open source software licensed under the MIT License
 
 ### Contributor
 
-* [Suhail Kakar](https://suhailkakar.com)
+* [Digvijay Bind](http://digvijaybind.xyz/#about)
 
